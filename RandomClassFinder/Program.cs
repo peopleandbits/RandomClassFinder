@@ -14,7 +14,7 @@ namespace RandomClassFinder
     /// No arguments: 
     ///     Looks from all dlls in the current folder.
     ///     
-    /// One argument eg. ""ADJUST.Models.dll, ADJUST.ViewModels.dll": 
+    /// One argument eg. "MyDll1.dll, MyDll2.dll, MyDll3.dll": 
     ///     Looks from these two dlls. Referenced dlls must be present!
     /// </summary>
     class Program
